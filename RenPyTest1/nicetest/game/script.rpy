@@ -36,7 +36,7 @@ label feedback:
     scene office
     show director3 with dissolve
 
-    $ score += 2
+    $ score += 3
 
     boss "Каким образом будет осуществляться обратная связь?"
 
