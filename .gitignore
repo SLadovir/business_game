@@ -4,3 +4,10 @@
 
 /.idea
 
+/nicetest/game/log.txt
+/nicetest/log.txt
+/nicetest/game/saves
+/nicetest/game/cache
+
+/nicetest/game/script.rpyc
+

@@ -1,13 +1,13 @@
 ﻿# Определение персонажей игры.
 define boss = Character('Руководитель', color="#E60E20")
-define analyst = Character('Аналитик', colo="#0000FF")
+define analyst = Character('Аналитик', color="#0000FF")
 
 #Набор очков
 define score = 0
 
 # Начало игры:
 label start:
-    play music "audio/fonk_back.mp3" #запускаем музыку
+    play music "audio/fonk_back.mp3"  # запускаем музыку
 
     scene office
     show director with dissolve
