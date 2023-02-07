@@ -4,11 +4,13 @@
 
 /.idea
 
-/nicetest/game/log.txt
-/nicetest/log.txt
-/nicetest/traceback.txt
-/nicetest/game/saves
-/nicetest/game/cache
 
-/nicetest/game/script.rpyc
+/RenPyTest1/nicetest/log.txt
+/RenPyTest1/nicetest/traceback.txt
 
+/RenPyTest1/nicetest/game/cache/
+/RenPyTest1/nicetest/game/saves/
+/RenPyTest1/nicetest/game/tl/
+
+/RenPyTest1/nicetest/game/log.txt
+/RenPyTest1/nicetest/game/traceback.txt
